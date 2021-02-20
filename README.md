@@ -1,2 +1,2 @@
-# JavaScript-map(),reduce(), filter()
+# JavaScript - map(), reduce(), filter()
 Created with CodeSandbox
