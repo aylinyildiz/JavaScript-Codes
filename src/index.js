@@ -132,11 +132,4 @@ const arr1 = [1, 4, 3, 2];
 const arr2 = [5, 2, 6, 7, 1];
 console.log(arr1.filter((it) => arr2.includes(it)));
 
-document.getElementById("app").innerHTML = `
-<h1>Hello Vanilla!</h1>
-<div>
-  We use the same configuration as Parcel to bundle this sandbox, you can find more
-  info about Parcel 
-  <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
-</div>
-`;
+document.getElementById("app").innerHTML = ``;
